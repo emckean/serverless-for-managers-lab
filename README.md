@@ -5,7 +5,6 @@ Lab instructions for THINK Lab 5790A 2018
 In this lab, you will:
 	
 	* Create a serverless function
-	* Schedule a trigger for your function
 	* Check your function's logs
 	* Delete or suspend your function
 
