@@ -1,7 +1,7 @@
 # serverless-for-managers-lab
 Lab instructions for THINK Lab 5790A 2018
 
-##Goal
+## Goal
 In this lab, you will:
 	
 	* Create a serverless function
@@ -18,7 +18,7 @@ You should have received a student IBM Cloud login upon entering the lab room. (
 
 ### Instructions
 
-####Signing in: 
+#### Signing in: 
 
 1. Visit [https://www.ibm.com/cloud/](https://www.ibm.com/cloud/) in your browser.
 
@@ -32,7 +32,7 @@ You should have received a student IBM Cloud login upon entering the lab room. (
 ![enter password](./images/password.png)
 6. Click on "My cloud console" and choose "Dashboard": ![dashboard](./images/dashboard.png)
 
-####Creating a Function
+#### Creating a Function
 
 1. Find the menu in the upper left-hand corner: ![menu](./images/menu.png)
 2. Click on the menu and choose "Functions": ![functions](./images/functions-menu.png)
@@ -44,7 +44,7 @@ You should have received a student IBM Cloud login upon entering the lab room. (
 *NOTE: if you get a "Not found" message, add a blank line at the end of your code block, save, and invoke again.*
 8. Check out the results of your activation! ![activation results](./images/activation-results.png)
 
-####Using an Input Parameter
+#### Using an Input Parameter
 
 Cloud functions accept a single parameter, a JSON object called `params` in our function here. 
 
@@ -70,7 +70,7 @@ Click "Invoke" again and you should see an output that looks like this:
 ![params example results](./images/params-results.png)
 
 
-####Adding Logs
+#### Adding Logs
 
 You can add logging statements to your function very simply. To test this, add `console.log("This is a log message.")` to your function: 
 
@@ -90,7 +90,7 @@ This will take you to a full Kibana dashboard (it make take a minute or so to lo
 
 ![kibana dashboard](./images/kibana.png)
 
-####Adding a Web Endpoint
+#### Adding a Web Endpoint
 
 It's very simple to make your function a public web endpoint! 
 
@@ -116,7 +116,7 @@ Add `?name=Erin` (or your name, of course) to the end of your URL and refresh. Y
 
 ![web output with name](./images/web-output-name.png)
 
-####Deleting Your Function
+#### Deleting Your Function
 
 Navigate to the Actions overview dashboard and choose 'Delete Action' from the dropdown menu: 
 
