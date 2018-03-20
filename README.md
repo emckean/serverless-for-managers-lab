@@ -1,6 +1,8 @@
 # serverless-for-managers-lab
 Lab instructions for THINK Lab 5790A 2018
 
+Looking for the PDF of the talk itself? It's [here](/ServerlessForManagers-THINK2018-McKean.pdf).
+
 ##Goal
 In this lab, you will:
 	
