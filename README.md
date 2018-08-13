@@ -26,10 +26,7 @@ You need an IBM Cloud account! Sign up for one with this link [https://ibm.biz/B
 
 3. Choose "sign in" from the drop-down menu: ![sign in](./images/signin.png)
 
-4. Enter the IBM Student Cloud login email and click 'Continue'. ![enter email](./images/email.png)
-5. Enter the password that you were given when you entered the lab and click "Sign in".  
-![enter password](./images/password.png)
-6. Click on "My cloud console" and choose "Dashboard": ![dashboard](./images/dashboard.png)
+4. Click on "My cloud console" and choose "Dashboard": ![dashboard](./images/dashboard.png)
 
 #### Creating a Function
 
