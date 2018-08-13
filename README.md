@@ -1,5 +1,5 @@
 # serverless-for-managers-lab
-Lab instructions for THINK Lab 5790A 2018
+Lab instructions for serverless lab (originally THINK 2018 Lab 5790A)
 
 Looking for the PDF of the talk itself? It's [here](/ServerlessForManagers-THINK2018-McKean.pdf).
 
@@ -12,9 +12,7 @@ In this lab, you will:
 
 ### Prerequisites
 
-You should have received a student IBM Cloud login upon entering the lab room. (You will have had to sign a release form to receive the login ID.)
-	IF YOU DID NOT RECEIVE AN ID PLEASE ASK THE INSTRUCTOR FOR ONE. 
- >NOTE:  These IDs will be deactivated after THINK so if you want to continue to experiment with IBM Cloud or save you work, you should get own IBM Cloud ID [here](link TK).  
+You need an IBM Cloud account! Sign up for one with this link [https://ibm.biz/BdZTG4](https://ibm.biz/BdZTG4).
 
 
 ### Instructions
